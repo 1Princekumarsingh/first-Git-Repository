@@ -1,4 +1,4 @@
 # first-Git-Repository
 first Git Repository...
 <Br>
-Author - Prince Kumar Singh
+Author : Prince Kumar Singh
